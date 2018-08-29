@@ -1,2 +1,2 @@
 # Architetture
-Repositori ARchimate di Architetture
+Repositori Archimate di Architetture
